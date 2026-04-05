@@ -1,8 +1,21 @@
-# 🎓 Smart Study Planner
+# 🧠 NeuroPlan — Smart Study Planner
 
-A smart, structured study planning system designed to help students organize their learning, track progress, and optimize their study workflow.
+A modern AI-powered study planning system designed to help students organize, prioritize, and optimize their learning journey.
+
+Built with a clean dashboard experience and intelligent planning logic, NeuroPlan transforms raw study data into actionable insights.
+
 
 ---
+## 🚀 Features
+
+- 📊 Smart Study Planning based on deadlines & difficulty
+- 📈 Progress Tracking with detailed logs
+- 🧠 AI-powered PDF summarization & keyword extraction
+- 📅 Weekly Study Plan generator
+- 📊 Advanced Analytics & performance insights
+- 👤 Authentication system (login/register)
+- 📤 Export plans (CSV / PDF)
+- 🎯 Weak area detection & recommendations
 
 ## 🚀 Overview
 
@@ -13,6 +26,60 @@ Smart Study Planner is a full-featured productivity application built with **Pyt
 This system transforms scattered study efforts into a **clear, trackable, and adaptive plan**.
 
 ---
+
+## 🧱 Tech Stack
+
+- Python
+- Streamlit
+- SQLite
+- Pandas
+- PyPDF2
+- ReportLab
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/01-dashboard.png)
+![Dashboard](screenshots/01-dashboard2.png)
+![Dashboard](screenshots/01-dashboard3.png)
+
+---
+
+### Study Plan
+![Plan](screenshots/02-plan.png)
+![Plan](screenshots/02-plan2.png)
+![Plan](screenshots/02-plan3.png)
+
+---
+
+### Progress Tracking
+![Progress](screenshots/03-progress.png)
+
+---
+
+### PDF Study Helper
+![PDF](screenshots/04-pdf-helper.png)
+![PDF](screenshots/04-pdf-helper2.png)
+
+---
+
+### Subjects Management
+![Subjects](screenshots/05-subjects.png)
+
+---
+
+### Chapters Management
+![Chapters](screenshots/06-chapters.png)
+
+---
+
+### Analytics & Insights
+![Analytics](screenshots/07-analytics.png)
+![Analytics](screenshots/07-analytics2.png)
+![Analytics](screenshots/07-analytics3.png)
+
 
 ## ✨ Core Features
 
@@ -129,42 +196,13 @@ smart_study_planner/
 ---
 ```
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](screenshots/01-dashboard.png)
-
-### Study Plan
-![Plan](screenshots/02-plan.png)
-![Plan](screenshots/02-plan2.png)
-![Plan](screenshots/02-plan3.png)
-
-### Progress
-![Progress](screenshots/03-progress.png)
-
-### PDF Helper
-![PDF](screenshots/04-pdf-helper.png)
-![PDF](screenshots/04-pdf-helper2.png)
-
-### Subjects & Chapters
-![Subjects](screenshots/05-subjects.png)
-![Chapters](screenshots/06-chapters.png)
-
-### Analytics
-![Analytics](screenshots/07-analytics.png)
-![Analytics](screenshots/07-analytics2.png)
-![Analytics](screenshots/07-analytics3.png)
-
-
-
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-study-planner.git
-cd smart-study-planner
-
+git clone https://github.com/roqaiasoliman9-create/NeuroPlan.git
+cd NeuroPlan
 ```
 ### 2-  Create virtual environment
 ```bash
@@ -196,6 +234,9 @@ This is not just a UI project — it demonstrates:
 - Advanced analytics with ML
 
 # 👩‍💻 Author
+Ruqaya Suleyman
+AI Engineer (Beginner → Building Real Systems)
+
 Built as part of an AI engineering journey focused on:
 - Real applications
 - Practical systems
