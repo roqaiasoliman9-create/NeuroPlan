@@ -157,7 +157,6 @@ smart_study_planner/
 
 
 
-
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
